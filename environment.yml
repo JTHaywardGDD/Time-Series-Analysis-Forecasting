@@ -10,7 +10,6 @@ dependencies:
 - ipywidgets
 - jupytext
 - pip
-- RISE
 - altair
 - matplotlib
 - numpy
