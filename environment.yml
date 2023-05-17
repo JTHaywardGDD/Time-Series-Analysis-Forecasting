@@ -1,0 +1,26 @@
+name: time
+channels:
+  - conda-forge
+dependencies:
+- python=3.9
+- jupyter
+- jupyterlab
+- notebook
+- ipykernel
+- nb_conda_kernels
+- ipywidgets
+- jupytext
+- pip
+- RISE
+- altair
+- matplotlib
+- numpy
+- pandas
+- scikit-learn
+- seaborn
+- scipy
+- statsmodels
+- prophet
+- plotly>=4.0
+- scikit-lego
+
