@@ -7,7 +7,6 @@ dependencies:
 - jupyterlab
 - notebook
 - ipykernel
-- nb_conda_kernels
 - ipywidgets
 - jupytext
 - pip
